@@ -32,6 +32,3 @@ if __name__ == '__main__':
         fluff_counter()
         exit = input('Press Enter to continue or \'quit\' to exit. ')
         print('\n')
-
-
-
